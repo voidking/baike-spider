@@ -10,6 +10,6 @@
 `python spider_main.py`
 
 # 运行效果
-![](http://7oxjrx.com1.z0.glb.clouddn.com//imgs/crawler-baidu-baike/result1.jpg)   
+![](http://cdn.voidking.com//imgs/crawler-baidu-baike/result1.jpg)   
 
-![](http://7oxjrx.com1.z0.glb.clouddn.com//imgs/crawler-baidu-baike/result2.jpg)
+![](http://cdn.voidking.com//imgs/crawler-baidu-baike/result2.jpg)
