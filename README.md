@@ -1,5 +1,5 @@
 # baike-spider
-百度百科网络爬虫，爬取python词条相关页面的标题和简介。详细教程地址：http://www.voidking.com/2017/01/22/deve-python-crawler-baidu-baike/
+百度百科网络爬虫，爬取python词条相关页面的标题和简介。详细教程[点这里](http://www.voidking.com/dev-python-crawler-baidu-baike/)
 
 # 环境要求
 
